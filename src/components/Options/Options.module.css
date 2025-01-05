@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.btn {
+  padding: 16px;
+  background-color: lightsalmon;
+  color: beige;
+  font-weight: bold;
+  outline: none;
+  border: none;
+}
+.btn:hover {
+  background-color: cadetblue;
+  color: lightsalmon;
+}
